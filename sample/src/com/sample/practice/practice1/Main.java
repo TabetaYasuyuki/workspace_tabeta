@@ -11,6 +11,8 @@ public class Main {
 		array.add("D");
 		System.out.println(array);
 		
+		System.out.println("null");
+		
 
 	}
 
