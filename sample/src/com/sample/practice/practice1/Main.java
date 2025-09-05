@@ -8,6 +8,8 @@ public class Main {
 	public static void main(String[] args) {
 		ArrayList<String> array = new ArrayList<>(List.of("A","B","C"));
 		System.out.println(array);
+		array.add("D");
+		System.out.println(array);
 		
 
 	}
