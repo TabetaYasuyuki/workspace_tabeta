@@ -12,15 +12,12 @@ public class Main extends MyClass {
 		System.out.println(array);
 		array.add("D");
 		System.out.println(array);
-		
+
 		Main m = new Main();
 		m.printInter();
 		MyInter.printInterStatic();
 		
 		System.out.println("Eclipseからpush");
-		
-		
-		
 
 	}
 
