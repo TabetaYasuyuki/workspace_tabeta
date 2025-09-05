@@ -17,6 +17,8 @@ public class Main extends MyClass {
 		m.printInter();
 		MyInter.printInterStatic();
 		
+		System.out.println("Eclipseからpush");
+		
 		
 		
 
